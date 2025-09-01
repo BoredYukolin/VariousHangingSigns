@@ -37,6 +37,10 @@ public class VariousWallHangingSignBlock extends WallHangingSignBlock implements
         return log;
     }
 
+    public @NotNull WoodType type() {
+        return super.type();
+    }
+
     public ResourceLocation getTexture() {
         return texture;
     }

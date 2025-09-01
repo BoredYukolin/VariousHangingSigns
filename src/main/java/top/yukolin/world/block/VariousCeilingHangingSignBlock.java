@@ -37,6 +37,10 @@ public class VariousCeilingHangingSignBlock extends CeilingHangingSignBlock impl
         return log;
     }
 
+    public @NotNull WoodType type() {
+        return super.type();
+    }
+
     public ResourceLocation getTexture() {
         return texture;
     }
