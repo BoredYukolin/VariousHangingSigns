@@ -8,8 +8,7 @@
 		"BoredYukolin"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/BoredYukolin/VariousHangingSigns"
 	},
 	"license": "LGPL-3.0",
 	"icon": "assets/various-hanging-signs/icon.png",
